@@ -1,0 +1,81 @@
+Preparatory meeting for the Sagemath European H2020 grant application
+=====================================================================
+
+Dates
+=====
+
+September 08 and 09 of 2014
+
+Purpose of the meeting
+======================
+
+Brainstorm on the precise scope and consortium for our upcoming
+`Sagemath European H2020 grant application
+<https://github.com/sagemath/grant-europe/>`_, start writing the
+proposal, and split the work.
+
+Location
+========
+
+Salle du 3ème, Bâtiment 425
+`Laboratoire de Mathématiques d'Orsay <http://www.math.u-psud.fr>`_
+Université Paris Sud, Orsay.
+
+`How to come <http://www.math.u-psud.fr/acces.php>`_ (roughly 45
+minutes by RER from downtown Paris).
+
+Participants
+============
+
+- Miguel Angel Marco-Buzunariz (Profesor ayudante doctor), Universidad de Zaragoza
+
+- Samuel Lelièvre (maître de conférences), Labo math Orsay, U Paris Sud
+
+- Éric Gourgoulhon (DR CNRS), Laboratoire Univers et Théories, CNRS / Observatoire de Paris, Meudon
+
+- Dmitrii Pasechnik (senior research fellow), University of Oxford
+
+- Luca de Feo (Maître de Conférences), PRiSM, Université de Versailles
+
+- Nicolas M. Thiéry (Prof), LRI, Université Paris Sud
+
+- Florent Hivert (Prof), LRI, Université Paris Sud
+
+- Thierry Monteil (CNRS), LIRMM, Montpellier
+
+- Stephen Linton (Prof), University of St. Andrews
+
+- Marc Mezzarobba (CR CNRS), LIP6 Université Pierre et Marie Curie
+
+- Jean-Pierre Flori, `ANSSI <http://www.ssi.gouv.fr/>`_
+
+- Simon King (postdoctoral research fellow), Friedrich-Schiller-Universität Jena
+
+- Viviane Pons (Maître de Conférences), LRI, Université Paris Sud
+
+- Mohamed Barakat, Universität Kaiserslautern
+
+- Eugénia Shadlova, European Affairs Officer, Université Paris Sud
+
+- Marcin Kostur (Prof), University of Silesia
+
+Tentative program
+=================
+
+Monday
+------
+
+- 9:30 coffee
+- 10:00 Welcome and word of introduction (Nicolas)
+- 10:15 presentation of the call by Eugénia Shadlova (European Affairs Officer in Orsay)
+- 11:00 Going round the table, and gathering the needs of the community
+- 14:00 Lunch
+- 15:00- Brainstorm on the proper proposal configuration, work packages
+
+- Evening: dinner at the Gramophone
+
+Tuesday
+-------
+
+- 9:30- More brainstorm, refinement of the title, mission statement,
+  consortium, work packages, ...
